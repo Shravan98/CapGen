@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_9b90698da27a72ce0618b99a0445492ef90f78b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.1_f3e8ca8a42763105ab6274546c594f21735ed7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_adc4a96515d8d51081f7ee0925f38c6f6822ea3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_e4753cd93d6047965a6f1f3ac01cc4dea3109507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a6bddd41660647506e3f2f9f1823336f4b042eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d67e5a002c5e886a51e054cf4d61095c5768f590">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/libandroid_tensorflow_inference_java_dbd286be668bededb6cffb774444ade6897230ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ce2996755930ab2a8646178ce6c422a5770dc74b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1933509350a50a93a843d12a6e9c0bba89ea930c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_9d21f66ad312f1a64910c70136b621bd8ecbfc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ffb416f3ce7822ebcd88ea792cb34b61eeb50832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fec175939358353032516bd00fad12553e253401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ce6abd8ffde1d99cedb8277bcfaf8378ed8e0649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_0428235453808ab2642b0f606f324232038a2a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_c904ac0b075e3f73e7077fe2d61b3b5f242027d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8c2c377b2015ac08e862374e221a3ee52c8477ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0aa53e79b3805d495eb755d6c48fa3e11f5850ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_71a2d6eb56e22231d0a89962c8348200ecf2a95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_eba323143431bf661a9d3b3d6c47d26920eb80dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_d62ccf76da3d20ddb9bd2a2919f6f1fc6c26e3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_62fd02f8e72542491bdbc291a8dbd29e3ab1331a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/aditya/Downloads/Cam2Caption-master 2/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b1e003d873e09ef286da1820f21b6cbff1e92442.jar" />
+    </item>
+
+</items>
